@@ -50,7 +50,7 @@ h2 {
 
 /* PREPARATION SECTION */
 .preparation {
-    background-color: hsl(30, 54%, 90%, 50%);
+    background-color: hsl(330, 100%, 98%);
     padding: 15px 25px;
     border-radius: 12px;
 }
@@ -169,7 +169,7 @@ h2 {
     .body-wrapper {
         width: 50%;
         margin: 0 auto;
-        background-color: hsl(330, 100%, 98%);
+        background-color: white;
         margin-top: 50px;
         margin-bottom: 50px;
         padding-top: 30px;
