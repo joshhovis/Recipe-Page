@@ -9,6 +9,10 @@ body, html {
     color: hsl(24, 5%, 18%);
 }
 
+.body-wrapper {
+    background-color: white!important;
+}
+
 .hero-img {
     max-width: 100%;
     height: auto;
